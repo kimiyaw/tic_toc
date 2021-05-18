@@ -1,0 +1,11 @@
+.Dialog{
+    padding-bottom: 0px !important;
+    display: flex;
+}
+
+.Content {
+    margin-top: 24px !important;
+    font-size: 18px !important;
+    margin-left: 8px !important;
+    color: black !important;
+}
